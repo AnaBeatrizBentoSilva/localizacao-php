@@ -21,6 +21,6 @@ Cada pasta representa um projeto individual
 ├── CEP/
 │   ├── buscarCEP.php 
 │   └── index.php
-└── Endereço/
+├── Endereço/
 │   └── Cadastro.php
 └── README.md
